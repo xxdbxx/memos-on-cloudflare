@@ -15,7 +15,7 @@ APP_VERSION = "1.0.0"
 [[d1_databases]]
 binding = "DB"
 database_name = "memos-db"
-database_id = ""
+database_id = "6c5e8a51-c02c-4ec6-9bd3-861966b17bdf"
 
 [[r2_buckets]]
 binding = "BUCKET"
